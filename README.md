@@ -227,9 +227,59 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <br />
 
-<img width="80%" height="80%" alt="24" src="https://github.com/user-attachments/assets/7fd7b76a-255c-4f5e-ae48-b026f42c73b4" />
+<img width="80%" height="80%" alt="28" src="https://github.com/user-attachments/assets/6026ce65-d4ed-4974-aaf8-c5fe23e14c47" />
 
 
-- To configure SLA, Switch to the "Admin Panel", click "Manage", and then click "SLA".
+- To configure Help Topics, from the Admin Panel, clck "Manage" and then "Help Topics".
+- Click "Add New Help Topic".
+</p>
+<br />
+
+<img width="80%" height="80%" alt="29" src="https://github.com/user-attachments/assets/c271f9d9-f150-4e98-a5d0-8399db31ea1f" />
+
+
+- Name it "Business Critical Outage".
+- Parent Topic: Report a problem.
+- Click "Add Topic"
+</p>
+<br />
+
+<img width="80%" height="80%" alt="30" src="https://github.com/user-attachments/assets/ff0641b5-e4fa-4876-931c-2ab2a1bf4607" />
+
+
+- Add another Help Topic.
+- Name it "Personal Computer Issues".
+- Parent Topic: Report a problem.
+- Click "Add Topic"
+</p>
+<br />
+
+<img width="80%" height="80%" alt="31" src="https://github.com/user-attachments/assets/b946db14-6960-4876-b080-70873c749fa0" />
+
+
+- Add another Help Topic.
+- Name it "Equipment Request".
+- Parent Topic: General Inquiry.
+- Click "Add Topic"
+</p>
+<br />
+
+<img width="80%" height="80%" alt="32" src="https://github.com/user-attachments/assets/6ab587af-9ded-41cc-8359-65a2caab5b43" />
+
+
+- Add another Help Topic.
+- Name it "Password Reset".
+- Parent Topic: Report a problem.
+- Click "Add Topic"
+</p>
+<br />
+
+<img width="80%" height="80%" alt="33" src="https://github.com/user-attachments/assets/c62ef9be-86b8-41a1-8acf-03adeb9a07a1" />
+
+
+- Add another Help Topic.
+- Name it "Other".
+- Parent Topic: General Inquiry.
+- Click "Add Topic"
 </p>
 <br />
